@@ -10,3 +10,5 @@ perintah perintah dasar git
 	git log
 	git log --oneline
 4. melihat perbandingan staging dengan workfold
+
+	git diff
