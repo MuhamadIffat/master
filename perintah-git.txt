@@ -3,3 +3,5 @@ perintah perintah dasar git
 
 	git init
 2. Menambahkan ke staging area
+
+	git add <nama-File>
