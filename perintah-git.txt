@@ -6,3 +6,6 @@ perintah perintah dasar git
 
 	git add <nama-File>
 3. Menampilkan History
+	
+	git log
+	git log --oneline
