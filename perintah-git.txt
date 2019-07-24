@@ -2,3 +2,4 @@ perintah perintah dasar git
 1. membuat repository
 
 	git init
+2. Menambahkan ke staging area
