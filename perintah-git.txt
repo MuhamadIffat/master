@@ -5,3 +5,4 @@ perintah perintah dasar git
 2. Menambahkan ke staging area
 
 	git add <nama-File>
+3. Menampilkan History
